@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+## NAME : SHREYESHKAR SEKAR
+## REGISTER NUMBER : 212224220099
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -25,5 +28,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 # Result
+
+![image](https://github.com/user-attachments/assets/a3054bd9-5fb2-4ad8-bf5b-0c4e8e9489b6)
+
 
 # Output 
